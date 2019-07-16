@@ -227,5 +227,6 @@ img {
   width: 50px;
 }
 .dark-mode {
-  background-color: #999999;
+  background-color: black;
+  color: white;
 }
